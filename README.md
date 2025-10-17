@@ -2,7 +2,7 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=bast-top-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bast-top-dev&" />
 </div>
 
-<h1 align="center">Hello <img src="./emojis/hi.gif" width="28" alt="hi" />, welcome to my corner of GitHub.</h1>
+<h1 align="center">Hello, welcome to my corner of GitHub.</h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=MV+Boli&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Automation+%26+Telegram+Bots+%7C+Smart+workflows+%26+mini+apps;Casino+%26+Betting+Sites+%7C+Secure%2C+high-traffic+platforms;Smart+Contracts+%26+dApps+%7C+Decentralized%2C+trustless+solutions" alt="Typing SVG" />
