@@ -115,9 +115,6 @@
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br>PostgreSQL
     </td>
-     <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" /><br>SQLite
-    </td>
   </tr>
 </table>
 
