@@ -49,6 +49,9 @@
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="40" height="40" alt="Nuxt.js" /><br>Nuxt.js
     </td>
+      <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" /><br>React Native
+    </td>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" /><br>Flutter
     </td>
@@ -58,11 +61,12 @@
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /><br>Node.js
     </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /><br>Express
-    </td>
+    
   </tr>
   <tr>
+      <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /><br>Express
+    </td>
     <td align="center" width="103">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" /><br>TypeScript
     </td>
@@ -84,11 +88,12 @@
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=d3" width="40" height="40" alt="D3.js" /><br>D3.js
     </td>
-    <td align="center" width="103">
-      <img src="https://skillicons.dev/icons?i=materialui" width="40" height="40" alt="Material UI" /><br>Material UI
-    </td>
+    
   </tr>
   <tr>
+      <td align="center" width="103">
+      <img src="https://skillicons.dev/icons?i=materialui" width="40" height="40" alt="Material UI" /><br>Material UI
+    </td>
     <td align="center" width="103">
       <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" /><br>Tailwind
     </td>
