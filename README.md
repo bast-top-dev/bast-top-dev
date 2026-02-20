@@ -19,16 +19,16 @@
     &nbsp;<img src="./emojis/shake.gif" width="22" valign="middle" alt="shake" />&nbsp;&nbsp;<b>I’m looking to collaborate on</b> Web3 projects, Telegram Mini Apps, and automation solutions.
   </li>
   <li>
-    &nbsp;<img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" />&nbsp;&nbsp;<b>I’m looking for help with</b> <a href="https://t.me/codeConjurer01">Expanding my developer community on Telegram</a>.
+    &nbsp;<img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" />&nbsp;&nbsp;<b>I’m looking for help with</b> <a href="https://t.me/VenomSoftwares1">Expanding my developer community on Telegram</a>.
   </li>
   <li>
-    <img src="./emojis/folder.gif" width="30" valign="middle" alt="folder" /> <b>All of my projects are available at</b> <a href="https://t.me/codeConjurer01">@codeConjurer01</a>.
+    <img src="./emojis/folder.gif" width="30" valign="middle" alt="folder" /> <b>All of my projects are available at</b> <a href="https://t.me/VenomSoftwares1">@VenomSoftwares1</a>.
   </li>
   <li>
     <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about</b> MERN stack, Next.js, TypeScript, smart contracts, automation workflows, Telegram bots.
   </li>
   <li>
-    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:w.s.top.prof@gmail.com">w.s.top.prof@gmail.com</a> or <a href="https://t.me/codeConjurer01">@codeConjurer01</a>
+    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:w.s.top.prof@gmail.com">w.s.top.prof@gmail.com</a> or <a href="https://t.me/VenomSoftwares1">@VenomSoftwares1</a>
   </li>
   <li>
     &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" />&nbsp;&nbsp;<b>Fun fact:</b> I automate things just to avoid doing them manually once.
