@@ -1,39 +1,43 @@
 <div>
-    <img align="right" src="https://komarev.com/ghpvc/?username=bast9476&label=Profile%20views&color=0e75b6&style=flat" alt="bast9476&" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=bast9476&label=Profile%20views&color=0e75b6&style=flat" alt="bast9476" />
 </div>
 
-<h1 align="center">welcome to my corner of GitHub.</h1>
+<h1 align="center">Welcome to my AI-powered dev space 🚀</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=MV+Boli&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Full+stack+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=MV+Boli&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Full+Stack+AI+Developer;Building+Intelligent+Systems;React+%7C+Node+%7C+Python+%7C+AI" alt="Typing SVG" />
 </p>
-<p align="center">  
-    <a href="https://github.com/bast9476?tab=achievements"><img src="https://github-trophies.vercel.app/?username=bast9476&&theme=onestar&no-frame=true&column=6&row=2" alt="bast9476&"/></a>
+
+<p align="center">
+  <a href="https://github.com/bast9476?tab=achievements">
+    <img src="https://github-trophies.vercel.app/?username=bast9476&theme=onestar&no-frame=true&column=6&row=2" alt="bast9476"/>
+  </a>
 </p>
 
 <ul align="left">
-  <li>
-    &nbsp;<img src="./emojis/seed.gif" width="22" valign="middle" alt="seed" />&nbsp;&nbsp;<b>I’m currently learning</b> Merkle proofs, advanced smart contract security, and gas optimizations.
+  <li> 🤖 <b>I’m currently learning</b> LLM applications, RAG pipelines, vector databases, and AI system design.</li>
+
+  <li> 🤝 <b>I’m looking to collaborate on</b> AI-powered SaaS, automation platforms, and Web3 + AI integrations.</li>
+
+  <li> 🧠 <b>I’m exploring</b> OpenAI APIs, LangChain, real-time AI apps, and scalable backend architectures.</li>
+
+  <li> 🚀 <b>My focus</b> is building intelligent products using React, Next.js, Node.js, Python, and cloud (AWS).</li>
+
+  <li> 📂 <b>Projects & community</b> available at 
+    <a href="https://t.me/VenomSoftwares1">@VenomSoftwares1</a>
   </li>
-  <li>
-    &nbsp;<img src="./emojis/shake.gif" width="22" valign="middle" alt="shake" />&nbsp;&nbsp;<b>I’m looking to collaborate on</b> Web3 projects, Telegram Mini Apps, and automation solutions.
+
+  <li> 💬 <b>Ask me about</b> AI integration, MERN stack, Next.js, TypeScript, automation, and smart systems.</li>
+
+  <li> 📫 <b>Reach me at</b> 
+    <a href="mailto:w.s.top.prof@gmail.com">w.s.top.prof@gmail.com</a> 
+    or 
+    <a href="https://t.me/VenomSoftwares1">@VenomSoftwares1</a>
   </li>
-  <li>
-    &nbsp;<img src="./emojis/sos.gif" width="20" valign="middle" alt="sos" />&nbsp;&nbsp;<b>I’m looking for help with</b> <a href="https://t.me/VenomSoftwares1">Expanding my developer community on Telegram</a>.
-  </li>
-  <li>
-    <img src="./emojis/folder.gif" width="30" valign="middle" alt="folder" /> <b>All of my projects are available at</b> <a href="https://t.me/VenomSoftwares1">@VenomSoftwares1</a>.
-  </li>
-  <li>
-    <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about</b> MERN stack, Next.js, TypeScript, smart contracts, automation workflows, Telegram bots.
-  </li>
-  <li>
-    <img src="./emojis/mail.gif" width="30" valign="middle" alt="mail" /> <b>Reach me at</b> <a href="mailto:w.s.top.prof@gmail.com">w.s.top.prof@gmail.com</a> or <a href="https://t.me/VenomSoftwares1">@VenomSoftwares1</a>
-  </li>
-  <li>
-    &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" />&nbsp;&nbsp;<b>Fun fact:</b> I automate things just to avoid doing them manually once.
-  </li>
+
+  <li> ⚡ <b>Fun fact:</b> I build AI tools to replace repetitive work — once and forever.</li>
 </ul>
+
 <p align="center">
-     <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
+  <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
 </p>
