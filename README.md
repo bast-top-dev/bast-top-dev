@@ -14,30 +14,6 @@
   </a>
 </p>
 
-<ul align="left">
-  <li> 🤖 <b>I’m currently learning</b> LLM applications, RAG pipelines, vector databases, and AI system design.</li>
-
-  <li> 🤝 <b>I’m looking to collaborate on</b> AI-powered SaaS, automation platforms, and Web3 + AI integrations.</li>
-
-  <li> 🧠 <b>I’m exploring</b> OpenAI APIs, LangChain, real-time AI apps, and scalable backend architectures.</li>
-
-  <li> 🚀 <b>My focus</b> is building intelligent products using React, Next.js, Node.js, Python, and cloud (AWS).</li>
-
-  <li> 📂 <b>Projects & community</b> available at 
-    <a href="https://t.me/VenomSoftwares1">@VenomSoftwares1</a>
-  </li>
-
-  <li> 💬 <b>Ask me about</b> AI integration, MERN stack, Next.js, TypeScript, automation, and smart systems.</li>
-
-  <li> 📫 <b>Reach me at</b> 
-    <a href="mailto:w.s.top.prof@gmail.com">w.s.top.prof@gmail.com</a> 
-    or 
-    <a href="https://t.me/VenomSoftwares1">@VenomSoftwares1</a>
-  </li>
-
-  <li> ⚡ <b>Fun fact:</b> I build AI tools to replace repetitive work — once and forever.</li>
-</ul>
-
 <p align="center">
   <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
 </p>
