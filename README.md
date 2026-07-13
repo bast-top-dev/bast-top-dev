@@ -38,7 +38,7 @@ Open to **long-term collaborations**, challenging projects, and full-time opport
 
 ### 🌐 Let's Connect
 
-- **Telegram**: [t.me/GEN9476](https://t.me/GEN9476)
+- **Telegram**: [t.me/bast_0706](https://t.me/bast_0706)
 
 ---
 
